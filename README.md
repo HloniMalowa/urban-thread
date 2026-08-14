@@ -2,8 +2,8 @@
 
 ## Student Information
 
-**Student Name:** [Your Full Name]  
-**Student Number:** [Your Student Number]  
+**Student Name:** [Lehlohonolo Malowadihlare]  
+**Student Number:** [ST10526942]  
 **Module:** WEDE5020 - Web Development  
 **Project:** Urban Thread Website  
 **Institution:** Rosebank College
