@@ -1,0 +1,168 @@
+/* General website styling */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: white;
+    color: black;
+    line-height: 1.6;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0 0 15px;
+    font-size: 32px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: burlywood;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 28px;
+    border-bottom: 3px solid burlywood;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 21px;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+/* Hero section */
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+    background-color: #eeeeee;
+    margin-bottom: 40px;
+}
+
+.hero h2 {
+    border-bottom: none;
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+/* Shop button */
+.shop-button {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.shop-button:hover {
+    background-color: burlywood;
+}
+/* Featured products */
+.featured-products {
+    text-align: center;
+}
+
+.featured-products h2 {
+    margin-bottom: 30px;
+}
+
+.product-card {
+    background-color: white;
+    border: 1px solid #dddddd;
+    padding: 25px;
+    text-align: center;
+    min-height: 220px;
+}
+
+.product-card h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.product-card p {
+    margin-bottom: 10px;
+}
+/* Product card layout */
+.featured-products {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.featured-products h2 {
+    grid-column: 1 / -1;
+}
+/* Product images */
+.product-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+/* Products page */
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
+
+.product-item {
+    border: 1px solid #dddddd;
+    padding: 25px;
+    text-align: center;
+    background-color: white;
+}
+
+.product-item h2 {
+    border-bottom: none;
+    font-size: 24px;
+}
+
+.product-item h3 {
+    margin-top: 10px;
+}
+
+.product-item p {
+    margin-bottom: 10px;
+}
