@@ -2,28 +2,28 @@
 
 ## Student Information
 
-**Student Name:** [Lehlohonolo Malowadihlare]  
-**Student Number:** [ST10526942]  
-**Module:** WEDE5020 - Web Development  
+**Student Name:** Lehlohonolo Malowadihlare  
+**Student Number:** ST10526942  
+**Module:** WEDE5020 – Web Development  
 **Project:** Urban Thread Website  
 **Institution:** Rosebank College
 
 ## Project Overview
 
-Urban Thread is a fictional local streetwear business website created for the WEDE5020 POE. The website provides customers with information about the business and allows them to view products and make enquiries.
+Urban Thread is a fictional local streetwear business website created for the WEDE5020 POE. The website provides customers with information about the business, allows them to browse products, and enables them to make enquiries.
 
-The website focuses on modern, affordable streetwear for teenagers, college students and young adults between the ages of 16 and 30.
+The website focuses on modern, affordable streetwear for teenagers, college students, and young adults between the ages of 16 and 30.
 
 ## Goals and Objectives
 
 The main goals of the website are:
 
-- To create an online presence for Urban Thread.
-- To display the business's products and prices.
-- To provide information about the business.
-- To allow customers to make product enquiries.
-- To provide contact information.
-- To create a simple and easy-to-use website.
+- Create an online presence for Urban Thread.
+- Display the business's products and prices.
+- Provide information about the business.
+- Allow customers to make product enquiries.
+- Provide contact information.
+- Create a simple and user-friendly website.
 
 ## Website Features
 
@@ -35,15 +35,16 @@ The website contains the following pages:
 - Enquiry
 - Contact
 
-The website also includes:
+Additional features include:
 
-- Navigation between pages
-- Product images
-- Product descriptions and prices
-- Enquiry form
-- Contact form
-- Responsive CSS styling
-- Footer information
+- Navigation between all pages.
+- Product images and descriptions.
+- Product pricing.
+- Enquiry form.
+- Contact form.
+- Responsive CSS styling.
+- Mobile, tablet, and desktop support.
+- Footer on every page.
 
 ## Technologies Used
 
@@ -74,48 +75,99 @@ Urban Thread
 │   ├── caps.jpg
 │   └── sneakers.jpg
 │
-└── js
+└── README.md
+```
 
-Layout and styling:
+## Layout and Styling
 
-The platform leverages straight with design style using black and white for core elements alongside burlywood accenting. The layout stresses clear text, simple user navigation, clear, product visuals, and user – friendly from files. 
+The website uses a streetwear-inspired design with black and white as the main colours and **burlywood** as the accent colour.
 
-Intended Market:
+The design focuses on:
 
-Targeted towards fashion – forward youth aged 16 to 30, specifically high school and university students looking for daily budget – friendly streetwear. 
+- Clear navigation
+- Readable typography
+- Consistent spacing
+- Product cards with hover effects
+- Responsive layouts for different screen sizes
 
-Product offering:
+## Target Audience
 
-Five distinct product options are displayed using fictional pricing and created for this project:
+Urban Thread targets fashion-conscious teenagers, college students, and young adults between the ages of 16 and 30 who are looking for affordable everyday streetwear.
 
-Teachers: R250
-Hoodies: R450
-Jeans: R600
-Caps: R180
-Sneakers: R800
+## Product Offering
 
-Site map details:
-The web application includes five main pages:
+The website showcases five fictional products:
 
-* Home
-* About
-* Product
-* Inquiry
-* Contract
+- T-Shirts – R250
+- Hoodies – R450
+- Jeans – R600
+- Caps – R180
+- Sneakers – R800
 
-Part 1 overview and timeline:
+These prices are fictional and were created for academic purposes.
 
-Part 1 details the site proposal, structural sitemap, UI wireframing, research collection, and preliminary web development. In accordance with WEDE5020POE expectations, work, unfolded systematically across reaching, coding, site testing, and final submission steps.
+## Sitemap
 
-Release notes bracket version 1.0 bracket):
+The website includes five main pages:
 
-* Developed the Urban Thread web structure.
-* Programmed individual pages: Home, About, Products, Inquiry, and Contact.
-* Formatted components, using custom CSS style sheet.
-* Incorporated product visuals, and configured website navigation.
-* Implemented form inputs for general contact and product inquiries.
-* Created the project README reference document.
+- Home
+- About
+- Products
+- Enquiry
+- Contact
 
-Reference references and AI declaration:
+## Part 1 Overview
 
-Research materials can be referenced inside the project proposal and "Content Research and Source" ZIP folder. AI tools were utilized the supportive aids during coding, with all final site assets adapted manually fulfill course guidelines.
+Part 1 included the website proposal, sitemap, wireframes, research, and the initial development of the Urban Thread website.
+
+## Part 2 Overview
+
+Part 2 focused on improving the website's visual appearance and responsiveness through CSS enhancements.
+
+The improvements included:
+
+- Responsive layouts for desktop, tablet, and mobile.
+- CSS Grid layouts.
+- Improved navigation.
+- Hover effects.
+- Rounded product cards.
+- Box shadows.
+- Responsive images.
+- Improved form styling.
+- Better typography and spacing.
+
+## Changelog
+
+### Version 1.0
+
+- Created the Urban Thread website structure.
+- Developed the Home page.
+- Developed the About page.
+- Developed the Products page.
+- Developed the Enquiry page.
+- Developed the Contact page.
+- Added CSS styling.
+- Added product images.
+- Added navigation across all pages.
+- Added enquiry and contact forms.
+- Created the project README.
+
+### Version 2.0
+
+- Improved responsive design for desktop, tablet, and mobile.
+- Added additional media queries.
+- Improved product card styling.
+- Added rounded corners and shadows.
+- Added hover animations.
+- Improved button styling.
+- Improved navigation with active page highlighting.
+- Enhanced accessibility with focus styles.
+- Updated GitHub with Part 2 changes.
+
+## References
+
+Research materials are included in the project proposal and the **Content Research and Sourcing** ZIP folder.
+
+## AI Disclosure
+
+AI tools were used as supporting resources during the planning, coding, and documentation of this project. The final website content, structure, styling, and implementation were reviewed and adapted to meet the WEDE5020 POE requirements.
