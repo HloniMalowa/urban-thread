@@ -295,9 +295,9 @@ Only tests that have actually been completed should be reported as successful.
 
 14. Deployment and Repository
 
-GitHub repository: [Insert the actual GitHub repository URL]
+GitHub repository: [https://github.com/HloniMalowa/urban-thread]
 
-Live website: [Insert the actual deployed website URL]
+Live website: [https://hlonimalowa.github.io/urban-thread/]
 
 The GitHub repository should contain the final source code and project documentation.
 
