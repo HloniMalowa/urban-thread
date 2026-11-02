@@ -165,7 +165,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 "product has been checked. The listed price is " +
                 prices[product] +
                 ". Please contact Urban Thread to confirm stock and availability.";
-
+                
+            feedback.hidden = false;
             feedback.style.display = "block";
 
             enquiryForm.reset();
